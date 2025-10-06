@@ -118,7 +118,7 @@ export default function Home() {
               <img
                 src="/sarah-knife-chief.png"
                 alt="Dr. Knife Chief"
-                className="w-full h-[600px] object-cover object-center rounded-3xl shadow-lg"
+                className="w-full h-[400px] md:h-[600px] object-cover object-left md:object-center rounded-3xl shadow-lg"
               />
               
             </div>
@@ -296,8 +296,8 @@ export default function Home() {
           <p className="text-xl md:text-2xl text-primary-foreground/90 text-balance mb-12 leading-relaxed">
             Take the first step toward lasting relief and restored peace of mind
           </p>
-          <Button asChild size="lg" variant="secondary" className="rounded-full px-12 py-7 text-lg font-medium">
-            <a href="mailto:allie@championsfamilyclinic.com">Book a Consultation Today</a>
+          <Button asChild size="lg" variant="secondary" className="rounded-full px-8 py-6 text-base font-medium">
+            <a href="mailto:allie@championsfamilyclinic.com">Book Consultation</a>
           </Button>
         </div>
       </section>
