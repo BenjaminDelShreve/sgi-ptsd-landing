@@ -118,7 +118,7 @@ export default function Home() {
               <img
                 src="/sarah-knife-chief.png"
                 alt="Dr. Knife Chief"
-                className="w-full h-[400px] md:h-[600px] object-cover object-left md:object-center rounded-3xl shadow-lg"
+                className="w-full h-[400px] md:h-[600px] object-cover object-right md:object-center rounded-3xl shadow-lg"
               />
               
             </div>
