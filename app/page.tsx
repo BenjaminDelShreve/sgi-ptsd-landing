@@ -116,10 +116,9 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-               
                 src="/sarah-knife-chief.png"
                 alt="Dr. Knife Chief"
-                className="w-full h-[600px] object-cover rounded-3xl shadow-lg"
+                className="w-full h-[600px] object-cover object-center rounded-3xl shadow-lg"
               />
               
             </div>
@@ -241,7 +240,7 @@ export default function Home() {
                 therapy.
               </p>
               <Button asChild size="lg" className="rounded-full px-10 py-6 text-lg">
-                <a href="/learn-more">Learn More About SGI</a>
+                <a href="/learn-more">Learn More</a>
               </Button>
             </Card>
           </div>
@@ -314,11 +313,13 @@ export default function Home() {
               </p>
             </div>
             <div>
-              <h4 className="font-serif mb-4">Contact</h4>
+              <h4 className="font-serif mb-4">Contact - Petty Medical</h4>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Phone: <a href="tel:+14792541055" className="text-blue-600 hover:text-blue-700 transition-colors font-medium">(479) 254-1055</a>
                 <br />
                 Email: <a href="mailto:allie@championsfamilyclinic.com" className="text-blue-600 hover:text-blue-700 transition-colors font-medium">allie@championsfamilyclinic.com</a>
+                <br />
+                Website: <a href="https://pettymedical.com" className="text-blue-600 hover:text-blue-700 transition-colors font-medium">pettymedical.com</a>
               </p>
             </div>
             <div>
