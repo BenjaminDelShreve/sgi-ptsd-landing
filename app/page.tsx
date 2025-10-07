@@ -315,7 +315,7 @@ export default function Home() {
             <div>
               <h4 className="font-serif mb-4">Contact - Petty Medical</h4>
               <p className="text-muted-foreground text-sm leading-relaxed">
-                Phone: <a href="tel:+14792541055" className="text-blue-600 hover:text-blue-700 transition-colors font-medium">(479) 254-1055</a>
+                Phone: <a href="tel:+14792541005" className="text-blue-600 hover:text-blue-700 transition-colors font-medium">(479) 254-1005</a>
                 <br />
                 Email: <a href="mailto:allie@championsfamilyclinic.com" className="text-blue-600 hover:text-blue-700 transition-colors font-medium">allie@championsfamilyclinic.com</a>
                 <br />
