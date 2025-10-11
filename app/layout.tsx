@@ -6,15 +6,15 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Dr. Knife Chief | PTSD Reset Treatment',
-  description: 'Relief from PTSD in as little as 30 minutes with the Stellate Ganglion Injection.',
+  description: 'Relief from PTSD in as little as 30 minutes. Reset the nervous system and restore peace of mind.',
   openGraph: {
     title: 'Dr. Knife Chief | PTSD Reset Treatment',
-    description: 'Safe, office-based procedure that resets the fight-or-flight system.',
-    url: 'https://sgi-ptsd-landing.vercel.app',
+    description: 'Relief from PTSD in as little as 30 minutes. Reset the nervous system and restore peace of mind.',
+    url: 'https://drknifechief.zenjamindev.com',
     siteName: 'Dr. Knife Chief',
     images: [
       {
-        url: '/preview.png',
+        url: 'https://drknifechief.zenjamindev.com/knifechief-og.jpg',
         width: 1200,
         height: 630,
         alt: 'Dr. Knife Chief at Petty Medical Clinic',
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Dr. Knife Chief | PTSD Reset Treatment',
-    description: 'Safe, office-based procedure that resets the fight-or-flight system.',
-    images: ['/preview.png'],
+    description: 'Relief from PTSD in as little as 30 minutes. Reset the nervous system and restore peace of mind.',
+    images: ['https://drknifechief.zenjamindev.com/knifechief-og.jpg'],
   },
 };
 
